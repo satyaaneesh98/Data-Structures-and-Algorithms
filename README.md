@@ -1,0 +1,2 @@
+# Data-Structures-and-Algorithms
+Implemented data structures and algorithms projects in C++, including a closed hash table for student record indexing, a Sequence class combining array and linked list features, an AVL tree map for key/value storage, and a trie-based autocomplete application. These four projects were course assignments in my Data Structures and Algorithms course. Explore for detailed implementations and concepts.
